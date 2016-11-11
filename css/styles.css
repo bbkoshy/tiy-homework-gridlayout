@@ -99,9 +99,20 @@ font-weight: bold;
 font-size: 33px;
 text-transform: uppercase;
 text-align: center;
-padding-bottom: 30px;
+padding-bottom: 28px;
 
 }
+
+h2 .contact {
+  color: #303030;
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 2px solid #CCCCCC;
+}
+
+
+
+
 
 .col-md-4.footer a{
 text-decoration: none;
