@@ -134,3 +134,65 @@ footer {
   padding-left: 70px;
 
 }
+
+@media  (max-width: 478px){
+
+.col-md-6.menu li{
+display: inline-block;
+float: right;
+font-size: 12px;
+margin: 0 auto;
+
+}
+
+.navigation h3{
+  padding-top: 15px;
+
+}
+
+.hero{
+  background-color: #00ADA1;
+  padding: 40px 20px;
+  overflow: hidden;
+  margin:0 auto;
+}
+
+.container h1{
+  font-size: 25px;
+
+}
+
+button{
+  padding: 20px;
+  box-shadow:#333333;
+}
+
+h2 .contact {
+  font-size: 15px;
+
+}
+
+footer {
+  height: 160px;
+  text-align: left;
+  padding-left: 150px;
+
+}
+}
+
+@media  (min-width:479px) and (max-width:767px){
+  button{
+    padding: 10px;
+  }
+
+  .container img{
+    padding-left: 150px;
+    padding-bottom: 50px;
+  }
+  footer {
+    height: 190px;
+    text-align: left;
+    padding-left: 270px;
+
+
+}
